@@ -1,0 +1,9 @@
+services:
+  cti-orchestrator:
+    build: .
+    container_name: cti-orchestrator
+    env_file:
+      - .env
+    volumes:
+      - ./output:/app/output
+    restart: "no"

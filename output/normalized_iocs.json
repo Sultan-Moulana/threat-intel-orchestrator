@@ -1,0 +1,261 @@
+{
+  "generated_at": "2026-10-20T13:50:11.157255+00:00",
+  "total_count": 12,
+  "indicators": [
+    {
+      "value": "storage-data.com",
+      "ioc_type": "domain",
+      "source_pulse": "AOMEI Backupper update servers hijacked to push malware: Check your PC",
+      "confidence_score": 50,
+      "severity": "LOW",
+      "tags": [
+        "aomei backupper",
+        "remote access backdoor",
+        "supply chain attack",
+        "upgrade-now.exe",
+        "update infrastructure compromise",
+        "software distribution hijacking"
+      ],
+      "description": "No description provided"
+    },
+    {
+      "value": "promotion.storage-data.com",
+      "ioc_type": "domain",
+      "source_pulse": "AOMEI Backupper update servers hijacked to push malware: Check your PC",
+      "confidence_score": 50,
+      "severity": "LOW",
+      "tags": [
+        "aomei backupper",
+        "remote access backdoor",
+        "supply chain attack",
+        "upgrade-now.exe",
+        "update infrastructure compromise",
+        "software distribution hijacking"
+      ],
+      "description": "No description provided"
+    },
+    {
+      "value": "aomei.storage-data.com",
+      "ioc_type": "domain",
+      "source_pulse": "AOMEI Backupper update servers hijacked to push malware: Check your PC",
+      "confidence_score": 50,
+      "severity": "LOW",
+      "tags": [
+        "aomei backupper",
+        "remote access backdoor",
+        "supply chain attack",
+        "upgrade-now.exe",
+        "update infrastructure compromise",
+        "software distribution hijacking"
+      ],
+      "description": "No description provided"
+    },
+    {
+      "value": "b20f39fc00d242e706b6c30367ad811c676e0575050a4ec2f30104b696944b49",
+      "ioc_type": "sha256",
+      "source_pulse": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "confidence_score": 50,
+      "severity": "LOW",
+      "tags": [
+        "cve-2026-96656",
+        "cve-2026-96654",
+        "proxy",
+        "exploitation",
+        "myawesomeproxy",
+        "xmrig",
+        "cve-2026-96652",
+        "cve-2026-96655",
+        "remote code execution",
+        "honeypot",
+        "cryptominer",
+        "plex",
+        "residential ip"
+      ],
+      "description": "No description provided"
+    },
+    {
+      "value": "e4593f7938e76dfb40a3fe5358dfae231ef539a02ef3fda35bbccd6d2b7cdc22",
+      "ioc_type": "sha256",
+      "source_pulse": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "confidence_score": 50,
+      "severity": "LOW",
+      "tags": [
+        "cve-2026-96656",
+        "cve-2026-96654",
+        "proxy",
+        "exploitation",
+        "myawesomeproxy",
+        "xmrig",
+        "cve-2026-96652",
+        "cve-2026-96655",
+        "remote code execution",
+        "honeypot",
+        "cryptominer",
+        "plex",
+        "residential ip"
+      ],
+      "description": "No description provided"
+    },
+    {
+      "value": "217.60.194.116",
+      "ioc_type": "ip",
+      "source_pulse": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "confidence_score": 50,
+      "severity": "LOW",
+      "tags": [
+        "cve-2026-96656",
+        "cve-2026-96654",
+        "proxy",
+        "exploitation",
+        "myawesomeproxy",
+        "xmrig",
+        "cve-2026-96652",
+        "cve-2026-96655",
+        "remote code execution",
+        "honeypot",
+        "cryptominer",
+        "plex",
+        "residential ip"
+      ],
+      "description": "No description provided"
+    },
+    {
+      "value": "343427f5c7d42fe23a2b8e31e37168c2",
+      "ioc_type": "md5",
+      "source_pulse": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "confidence_score": 50,
+      "severity": "LOW",
+      "tags": [
+        "cve-2026-96656",
+        "cve-2026-96654",
+        "proxy",
+        "exploitation",
+        "myawesomeproxy",
+        "xmrig",
+        "cve-2026-96652",
+        "cve-2026-96655",
+        "remote code execution",
+        "honeypot",
+        "cryptominer",
+        "plex",
+        "residential ip"
+      ],
+      "description": "No description provided"
+    },
+    {
+      "value": "e1b3e738928012a07dfce8659b3ff31d",
+      "ioc_type": "md5",
+      "source_pulse": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "confidence_score": 50,
+      "severity": "LOW",
+      "tags": [
+        "cve-2026-96656",
+        "cve-2026-96654",
+        "proxy",
+        "exploitation",
+        "myawesomeproxy",
+        "xmrig",
+        "cve-2026-96652",
+        "cve-2026-96655",
+        "remote code execution",
+        "honeypot",
+        "cryptominer",
+        "plex",
+        "residential ip"
+      ],
+      "description": "No description provided"
+    },
+    {
+      "value": "2d3c618b21a7e2f8bcd735da188e44a7609ff3f204832dd0781cd09e4388c9db",
+      "ioc_type": "sha256",
+      "source_pulse": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "confidence_score": 50,
+      "severity": "LOW",
+      "tags": [
+        "cve-2026-96656",
+        "cve-2026-96654",
+        "proxy",
+        "exploitation",
+        "myawesomeproxy",
+        "xmrig",
+        "cve-2026-96652",
+        "cve-2026-96655",
+        "remote code execution",
+        "honeypot",
+        "cryptominer",
+        "plex",
+        "residential ip"
+      ],
+      "description": "No description provided"
+    },
+    {
+      "value": "5712ef510481f15fe8b18fdd10b73026d57cb3d9d151878a692358b99a464441",
+      "ioc_type": "sha256",
+      "source_pulse": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "confidence_score": 50,
+      "severity": "LOW",
+      "tags": [
+        "cve-2026-96656",
+        "cve-2026-96654",
+        "proxy",
+        "exploitation",
+        "myawesomeproxy",
+        "xmrig",
+        "cve-2026-96652",
+        "cve-2026-96655",
+        "remote code execution",
+        "honeypot",
+        "cryptominer",
+        "plex",
+        "residential ip"
+      ],
+      "description": "No description provided"
+    },
+    {
+      "value": "68938fb428f2bcfef4ede62f7b29cd0f15f37ed59e94462c099f2ca64e36baa7",
+      "ioc_type": "sha256",
+      "source_pulse": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "confidence_score": 50,
+      "severity": "LOW",
+      "tags": [
+        "cve-2026-96656",
+        "cve-2026-96654",
+        "proxy",
+        "exploitation",
+        "myawesomeproxy",
+        "xmrig",
+        "cve-2026-96652",
+        "cve-2026-96655",
+        "remote code execution",
+        "honeypot",
+        "cryptominer",
+        "plex",
+        "residential ip"
+      ],
+      "description": "No description provided"
+    },
+    {
+      "value": "e546b10aee5edc754da4f9b0baace00392257121911f630145078eafad1e6bd9",
+      "ioc_type": "sha256",
+      "source_pulse": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "confidence_score": 50,
+      "severity": "LOW",
+      "tags": [
+        "cve-2026-96656",
+        "cve-2026-96654",
+        "proxy",
+        "exploitation",
+        "myawesomeproxy",
+        "xmrig",
+        "cve-2026-96652",
+        "cve-2026-96655",
+        "remote code execution",
+        "honeypot",
+        "cryptominer",
+        "plex",
+        "residential ip"
+      ],
+      "description": "No description provided"
+    }
+  ]
+}
