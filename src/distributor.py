@@ -45,7 +45,7 @@ class CTIDistributor:
                     f"-m comment --comment \"CTI:{ioc.severity}:{ioc.source_pulse[:25]}\"\n"
                 )
 
-        os.chmod(iptables_script, 0o750)
+        os.chmod(iptables_script, 0o500)
         logger.info(
             f"Generated firewall rules for {len(ip_iocs)} malicious IPs at {iptables_script}"
         )
